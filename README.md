@@ -2,7 +2,7 @@
 
 Sem firula, instale o Go v1.12+ caso não tenha-o, clone o repositório e execute "go build" dentro da pasta diretório.
 
-# Requisitos
+## Requisitos
 
 Porta 80 e 443 desbloqueada no Firewall.
 Mais info em> https://letsencrypt.org/pt-br/docs/challenge-types/
